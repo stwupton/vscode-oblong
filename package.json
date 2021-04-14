@@ -1,0 +1,36 @@
+{
+	"name": "oblong",
+	"displayName": "Oblong",
+	"version": "0.0.2",
+	"private": true,
+	"description": "A pretty boring vscode theme.",
+	"icon": "images/icon.png",
+	"categories": [
+		"Themes"
+	],
+	"bugs": {
+		"url": "https://github.com/stwupton/vscode-oblong/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stwupton/vscode-oblong"
+	},
+	"author": "Steven Upton",
+	"publisher": "stwupton",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oblong",
+				"uiTheme": "vs-dark",
+				"path": "./themes/oblong-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"vsce": "^1.87.1"
+	},
+	"engines": {
+		"node": ">=15.0.0",
+		"vscode": "^1.45.0"
+	}
+}
