@@ -2,7 +2,7 @@
 
 _A pretty boring vscode theme._
 
-![Font: Fira Code with ligatures enabled](https://raw.githubusercontent.com/stwupton/vscode-oblong/images/screenshot.png)
+![Font: Fira Code with ligatures enabled](https://raw.githubusercontent.com/stwupton/vscode-oblong/master/images/screenshot.png)
 
 ## Description
 
