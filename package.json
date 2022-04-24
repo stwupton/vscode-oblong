@@ -1,7 +1,7 @@
 {
 	"name": "oblong",
 	"displayName": "Oblong",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": true,
 	"description": "A pretty boring vscode theme.",
 	"icon": "images/icon.png",
