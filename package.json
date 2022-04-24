@@ -32,5 +32,11 @@
 	"engines": {
 		"node": ">=15.0.0",
 		"vscode": "^1.45.0"
+	},
+	"__metadata": {
+		"id": "2f8e7b2a-1aeb-4856-be3f-6d5730046cc4",
+		"publisherId": "5431eb60-dbee-4877-9aa4-97e42c92cdac",
+		"publisherDisplayName": "stwupton",
+		"installedTimestamp": 1618440820968
 	}
 }

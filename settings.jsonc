@@ -81,6 +81,7 @@
                     "support.class", 
                     "support.constant", 
                     "support.function", 
+                    "support.function.any-method",
                     "support.other", 
                     "support.type", 
                     "support.type.property-name", 
